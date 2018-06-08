@@ -1,5 +1,4 @@
-# B-351-F2017-Final-Project
-Captcha Recognition
+# Captcha Recognition
 
 ### Dependencies
 
